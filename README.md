@@ -6,9 +6,9 @@ In this project, a processed RNA-seq dataset with quantitated gene expression da
 
 ## 2. **GitHub repository folders**
 
+* Code \- contains the R script of the code for data preprocessing and DEA.  
 * Data \- contains the RNA-seq dataset.  
 * Results \- contains the data and results obtained after pre-processing, differential expression analysis (DEA) and visualization.
-* Code \- contains the R script of the code for data preprocessing and DEA.  
 
 
 ## 3. **Requirements**
