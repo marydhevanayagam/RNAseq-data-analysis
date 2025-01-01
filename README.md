@@ -8,7 +8,7 @@ In this project, a processed RNA-seq dataset with quantitated gene expression da
 
 * Code \- contains the R script of the code for gene expression analysis and visualisation.  
 * Data \- contains the RNA-seq dataset.  
-* Results \- contains the data and results obtained after pre-processing, differential expression analysis (DEA) and visualization.
+* Results \- contains the data and results obtained from gene expression analysis and visualization.
 
 
 ## 3. **Requirements**
